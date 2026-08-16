@@ -1,4 +1,4 @@
-# Pokémon Explorer
+# Pokemon Explorer
 
 A production-oriented Pokémon search and details application built with Next.js 15 App Router, TypeScript, Tailwind CSS, and PokeAPI.
 
